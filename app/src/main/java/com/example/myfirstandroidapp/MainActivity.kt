@@ -14,7 +14,7 @@ class MainActivity : AppCompatActivity() {
     private lateinit var rdoSum: RadioButton
     private lateinit var rdoSubtract: RadioButton
 
-    val a = 2
+    val a = 223
     val c = 3
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
