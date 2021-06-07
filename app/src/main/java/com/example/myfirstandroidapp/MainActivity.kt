@@ -15,6 +15,7 @@ class MainActivity : AppCompatActivity() {
     private lateinit var rdoSubtract: RadioButton
 
     val a = 2
+    val c = 3
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
